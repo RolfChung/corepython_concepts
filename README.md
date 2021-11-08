@@ -12,13 +12,14 @@ Several topics are investigated, for example:
   <li>arrays</li>
   <li>dicts</li>
   <li>tuple</li>
+  <li>strings</li>
   <li>comprehensions</li>
   <li>lambdas</li>
   <li>Numpy</li>
   <li>data frames</li>
   <li>loops</li>
   <li>recursion</li>
-  <li>functional programming and recursion</li>
+  <li>functional programming</li>
 </ul> 
 
 <p>Also problems like the "Missing numbers problem" are considered.<br>
