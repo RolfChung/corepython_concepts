@@ -8,7 +8,7 @@ Several topics are investigated, for example:
 
 <ul>
   <li>performance measurement</li>
-  <li>memory usage/li>
+  <li>memory usage</li>
   <li>arrays</li>
   <li>dicts</li>
   <li>tuple</li>
